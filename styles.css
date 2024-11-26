@@ -1,0 +1,43 @@
+body {
+    font-family: "Palanquin Dark", sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #007acc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.palanquin-dark-regular {
+    font-family: "Palanquin Dark", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .palanquin-dark-medium {
+    font-family: "Palanquin Dark", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .palanquin-dark-semibold {
+    font-family: "Palanquin Dark", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .palanquin-dark-bold {
+    font-family: "Palanquin Dark", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
